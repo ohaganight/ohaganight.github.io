@@ -111,7 +111,7 @@ a {
   }
 
   &:hover {
-    color: $text-color;
+    color: lighten($brand-color, 15%);
     text-decoration: underline;
   }
 
@@ -151,7 +151,7 @@ code {
   @include relative-font-size(0.9375);
   border: 1px solid $grey-color-light;
   border-radius: 3px;
-  background-color: #eef;
+  background-color: rgb(48, 48, 48);
 }
 
 code {
@@ -175,6 +175,7 @@ pre {
  * Wrapper
  */
 .wrapper {
+  text-align: center;
   max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit} * 2));
   max-width:         calc(#{$content-width} - (#{$spacing-unit} * 2));
   margin-right: auto;
@@ -222,8 +223,6 @@ pre {
     padding-top: 5px;
   }
 }
-
-
 
 /**
  * Tables
