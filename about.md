@@ -21,5 +21,3 @@ For relaxing I like to spend time outside in the nature, nothing is more relaxin
 
 Well, there is one thing that is more relaxing.. Traveling! And why not combine traveling and fishing?
 ![Haga traveling](/assets/img/hagatraveling.png)
-
-Another dream that I have is to travel back to the 19th century to experience the wild wild west =)
