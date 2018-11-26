@@ -42,6 +42,7 @@ defaults:
     values:
       layout: "post"
       image: "/assets/img/logo.png"
+      type: "blog"
 
   - scope:
       path: ""
@@ -49,6 +50,7 @@ defaults:
     values:
       layout: "page"
       image: "/assets/img/logo.png"
+      type: "blog"
 
   - scope:
       path: ""
@@ -56,6 +58,7 @@ defaults:
     values:
       layout: "home"
       image: "/assets/img/logo.png"
+      type: "blog"
 
   - scope:
       path: ""
@@ -63,6 +66,7 @@ defaults:
     values:
       layout: "blogg"
       image: "/assets/img/logo.png"
+      type: "blog"
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
