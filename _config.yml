@@ -41,12 +41,27 @@ defaults:
       type: "posts"
     values:
       layout: "post"
+      image: "/assets/img/logo.png"
 
   - scope:
       path: ""
       type: "pages"
     values:
       layout: "page"
+      image: "/assets/img/logo.png"
+
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "home"
+      image: "/assets/img/logo.png"
+
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "blogg"
       image: "/assets/img/logo.png"
 
 # Exclude from processing.
