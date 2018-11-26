@@ -1,0 +1,13 @@
+/* Team */
+	Author: Olof Haga
+	Contact: olofhaga@student.lnu
+	From: Falun, Dalarna, Sweden
+
+/* SITE */
+	Last update: 2018/11/25
+	Language: English
+	Doctype: HTML5
+  IDE: Visual Studio Code
+  SSG: Jekyll
+  Theme: Minima
+  
