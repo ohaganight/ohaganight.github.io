@@ -1,3 +1,6 @@
+---
+permalink: /posts/what-is-jekyll
+---
 Jekyll is a SSG, a Static Site Generator. Using a SSG is perfect if you want to make a Static website. Could be a blog for example. The SSG gives your Static Website some abilities that it otherwise lacks. The best one, according to me, is the posibility to divine your html main elements into different html-files. For example you can make one header.html where you have your header-element. You can then import the file into all your pages on your site, and when you need to make a change to it you just need to do it in one place. Another ability that I like is that you can write your html in markdown and then let the SSG transform it into html for you. For someone like me that is new to html this way is alot faster and easier.
 
 If you want your static site to be a little more user interactive you can always use plug-ins for that and let other people take care of the security question about using data bases for example.

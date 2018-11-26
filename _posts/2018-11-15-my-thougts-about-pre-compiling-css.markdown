@@ -1,3 +1,6 @@
+---
+permalink: /posts/my-thought-about-pre-compiling-css
+---
 On the blog I am using the Sass pre compiler which is included in jekyll. A CSS pre compiler is an extention to the ordinary CSS.
 It gives you some new feutures to work with. For example you will be able to work with variables, functions (mixins) and nested elements.
 
